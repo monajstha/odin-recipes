@@ -1,0 +1,26 @@
+p {
+  margin-top: -10px;
+  text-align: justify;
+}
+
+ul {
+  margin-top: -10px;
+}
+
+.para {
+  font-size: xx-large;
+}
+
+li {
+  font-size: 18px;
+  margin: 10px;
+  text-align: justify;
+}
+
+.container {
+  background-color: aliceblue;
+}
+
+.first-desc {
+  /* background-color: beige; */
+}

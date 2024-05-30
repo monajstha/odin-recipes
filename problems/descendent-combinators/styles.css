@@ -1,0 +1,17 @@
+/* Using class selectors */
+.container .text {
+  background-color: yellow;
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  color: red;
+}
+
+/* Using type selectors */
+/* div p {
+  background-color: yellow;
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  color: red;
+} */
