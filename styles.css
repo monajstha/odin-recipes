@@ -17,10 +17,28 @@ li {
   text-align: justify;
 }
 
+.recipe-list {
+  margin-left: -15px;
+}
+
+.item-list {
+  /* background-color: aliceblue; */
+  padding: 5px;
+}
+
 .container {
-  background-color: aliceblue;
+  /* background-color: aliceblue; */
 }
 
 .first-desc {
   /* background-color: beige; */
+}
+
+.recipe-header {
+  margin: 0 auto;
+}
+
+.recipe-image {
+  width: "100%";
+  height: 300px;
 }
